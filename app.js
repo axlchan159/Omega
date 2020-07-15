@@ -2,16 +2,16 @@
 
 
 ///Edit Under This
-<!-- The core Firebase JS SDK is always required and must be listed first -->
-<script src="/__/firebase/7.16.0/firebase-app.js"></script>
-
-<!-- TODO: Add SDKs for Firebase products that you want to use
-     https://firebase.google.com/docs/web/setup#available-libraries -->
-<script src="/__/firebase/7.16.0/firebase-analytics.js"></script>
-
-<!-- Initialize Firebase -->
-<script src="/__/firebase/init.js"></script>
-
+const firebaseConfig = {
+  apiKey: "AIzaSyDWFTrPbXQ70PRyfhACLJmvlf2Lyvxi6bI",
+  authDomain: "axl-hacker.firebaseapp.com",
+  databaseURL: "https://axl-hacker.firebaseio.com",
+  projectId: "axl-hacker",
+  storageBucket: "axl-hacker.appspot.com",
+  messagingSenderId: "927794011740",
+  appId: "1:927794011740:web:2abf30f16ba90f347b9099",
+  measurementId: "G-PS54VLNZYY"
+};
      
  
 ////Do Not Edit Below This
